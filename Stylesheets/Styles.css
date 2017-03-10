@@ -1,0 +1,172 @@
+h4 {color :#d24dff}
+h6 {
+	text-align: right;
+    color: #d24dff
+}
+h2 {
+	text-align: center;
+	color: #e6e6e6;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#second_hire input[type="text"],  #second_hire input[type="email"], #second_hire textarea {
+	background-color: #e6e6e6;
+	color: #000000;
+	font-weight: bold;
+}
+#msg input[type="text"],  #msg input[type="email"], #msg textarea{
+	background-color: #e6e6e6;
+	font-weight: bold;
+	color: #000000;
+}
+.col-sm-6 center h4 {color: #000000;}
+.col-sm-6 center h5 b {color: #ff0000;}
+.table-responsive{ width: 100%; }
+#h3_design{ 
+	text-align: left;
+	text-indent: 70px;
+}
+#design_3{color: #000000; }
+#design_4{color: #d866ff;}
+ul.design{
+	font-size: 15px;
+	font-weight: bold;
+}
+#top_resume{
+	background-color:  #000000;	
+}
+#second_hire{
+	background-color: #cccccc;color: 
+}
+#top_resume h5 a {
+	color: red;
+	background-color:transparent;
+	text-decoration:none
+}
+#top_about img {	
+	padding-top: 3%;
+    padding-bottom: 3%;     
+}
+#top_about #second_about {	
+	padding-top: 5%;	
+}
+.social_media p {
+	display: inline-block;
+	color: #cc33ff;
+	font-weight: bold;
+}
+#top_resume h3, #top_resume h5{
+	color: #f2f2f2;
+	text-align: center;
+}
+.development{
+	text-align: left;
+	color: #ac33ff;
+	text-indent: 70px;
+}
+.dsktp_dev{
+	text-align: left;
+	color: #cc80ff;
+	text-indent: 70px;	
+}
+.dsk_dev{background-color:#150033;}
+#design, #dev{
+	color:#000000;
+	text-align: center;
+
+}
+#design_2{
+	text-align: center;
+	color:  #d866ff;
+}
+#img {
+	height: 300px;
+	width: 100%;
+}
+
+#header_font, h3 {
+	text-align: center;
+	color: #df9fdf;
+}
+.web_services {	
+	background-size: 100%;
+	width: 100%;
+}
+.web_design{
+	background-color: #000000;
+}
+
+.list{
+	font-family: tahoma;
+	color: #b7b794;
+}
+#top_header { 	
+    background-color: #000000
+}
+.top_advert{
+	background-size: 100%;     
+	background-color: #000000;		
+	max-width: 100%;	     
+}
+#soft_dev{background-color: #0b001a;}
+.affix {
+	top: 0; 
+	width: 100%;
+}
+.affix + .container-fluid {	
+	padding-top: 20px;
+}
+/* top Menu style */
+.menu{ width:1360px, auto; background: #732673;}
+.menu ul{ padding:5px; width:1000px, auto; margin:0 auto; text-align: center;}
+.menu ul li{ display:inline;  color:#fff; padding: 10px;}
+.menu ul li a{ color: #f2f2f2;text-decoration: none;display: inline-block;padding: 16px 15px;}
+.menu ul li a#links:hover{ color: #000000; background: #5c5cd6; }
+
+.dropdown {
+    position: relative;
+    /** Make it fit tightly around it's children */
+    display: inline-block;
+}
+.dropdown .dropdown-menu {
+    position: absolute;
+    display: none;    
+     /* Set the top of the dropdown menu to be positioned 100%
+     * from the top of the container, and aligned to the left.
+     */
+    top: 100%;
+    left: 0;
+
+    /* Allow no empty space between this and .dropdown */
+    margin: 0;
+    list-style: none; /* Remove list bullets */
+    width: 100%; /* Set the width to 100% of it's parent */
+    padding: 0;
+    background: #732673    
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.dropdown li ul li a {
+    display: block;
+    padding: 0.2em 0.8em;
+    text-decoration: none; 
+    background: #732673; 
+    
+}
+.dropdown li ul li a:hover {
+	background: #5c5cd6;   
+}
+#footer {
+    background-color:black;
+    color: #ffffff;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+        
+     
+        
